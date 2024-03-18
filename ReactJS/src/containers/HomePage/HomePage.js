@@ -21,11 +21,11 @@ class HomePage extends Component {
     return (
         <div>
             <HomeHeader/>
-          
-            
-            
-       
+      
         </div>
+      
+         
+       
     );
   }
 }  
